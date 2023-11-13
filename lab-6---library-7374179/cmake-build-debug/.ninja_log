@@ -1,0 +1,10 @@
+# ninja log v5
+1	589	1697823781410651422	CMakeFiles/lab4template.dir/DVD.cpp.o	5a54a1f50ec4ec5b
+0	590	1697823781409973383	CMakeFiles/lab4template.dir/book.cpp.o	3a7771291628490e
+0	590	1697823781411318086	CMakeFiles/lab4template.dir/Journal.cpp.o	3c38e25e0d53f08c
+0	592	1697823781415709696	CMakeFiles/lab4template.dir/library.cpp.o	e0e7a16f8b6ca11f
+1	356	1697823841157559035	CMakeFiles/lab4template.dir/library.cpp.o	e0e7a16f8b6ca11f
+1	459	1697823864968653183	CMakeFiles/lab4template.dir/Catalogue.cpp.o	b640fa3b36fe7387
+1	428	1697823880249150210	CMakeFiles/lab4template.dir/LibraryItemGenerator.cpp.o	826f2ccf70ed0afa
+0	377	1697824877608478178	CMakeFiles/lab4template.dir/main.cpp.o	17dc9c393d7e8854
+377	431	1697824877662418885	lab4template	a3ccb9ce5180a29d
